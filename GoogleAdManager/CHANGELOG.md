@@ -1,5 +1,8 @@
 # Changelog
 
+## 13.7.0.0
+* Certified with GoogleAdManager SDK 13.7.0.
+
 ## 13.6.0.0
 * Certified with GoogleAdManager SDK 13.6.0.
 
